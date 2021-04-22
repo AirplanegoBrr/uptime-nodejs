@@ -12,3 +12,7 @@ How to use
 5. Have fun
 
 If you have any problems make an issue!
+
+OR do:
+
+npm i uptime-nodejs

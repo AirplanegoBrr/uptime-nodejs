@@ -1,7 +1,7 @@
 {
   "name": "uptime-nodejs",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "This is a nodejs uptime thingy!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
